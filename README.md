@@ -21,7 +21,7 @@ This class handles UUID v3, v4, and v5. Read the [documentation](https://github.
 Lootils is released under a MIT like license.
 
 ## What's In A Name?
-[Loo](https://en.wikipedia.org/wiki/Loo_(wind)) is the name of a strong, hot, and dry summer afternoon wind in the spring in India.
+[Loo](https://en.wikipedia.org/wiki/Loo_%28wind%29 "Wikipedia: Loo (wind)") is the name of a strong, hot, and dry summer afternoon wind in the spring in India.
 
 Or... it could be [loo](https://en.wiktionary.org/wiki/loo#Etymology_1) as in the British slang. 
 
