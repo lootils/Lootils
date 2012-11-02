@@ -1,10 +1,9 @@
 {
-  "name": "mattfarina/lootils",
-  "version": "1.0.0-dev",
+  "name": "lootils/lootils",
   "type": "metapackage",
   "description": "A collection of utilities.",
   "keywords": ["uuid"],
-  "homepage": "https://github.com/mattfarina/Lootils",
+  "homepage": "https://github.com/lootils/Lootils",
   "license": "MIT",
   "authors": [
     {
@@ -14,12 +13,6 @@
   ],
   "require": {
     "php": ">=5.3.0",
-    "mattfarina/lootils-uuid": "dev-master"
-  },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/mattfarina/Lootils-UUID"
-    }
-  ]
+    "lootils/uuid": "1.0.0"
+  }
 }
